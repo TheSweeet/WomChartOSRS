@@ -1,0 +1,164 @@
+{
+    "978464595935105055": {
+        "server_name": "Iron Drip",
+        "poll": [
+            {
+                "poll_title": "Iron Drip BOTW #14 Poll",
+                "poll_description": "Vote for the skill of the week!",
+                "poll_end_time": 1675400769,
+                "poll_duration": 48,
+                "poll_choices": {
+                    "Dagannoth Rex": "<:dagannoth_rex:1070119716187820194>",
+                    "The Corrupted Gauntlet": "<:the_corrupted_gauntlet:1070119735435460638>",
+                    "Zulrah": "<:zulrah:1070119745594073110>",
+                    "Giant Mole": "<:giant_mole:1070119724433809458>",
+                    "King Black Dragon": "<:king_black_dragon:1070119725474005032>"
+                },
+                "wom_start_time": 1679706000,
+                "poll_message_id": 1087101782011945020,
+                "event_type": "SOTW",
+                "active": false,
+                "wom_started": true,
+                "wom": {
+                    "wom_title": "Iron Drip BOTW #14",
+                    "wom_message_id": 1088996554796445706,
+                    "wom_start_time": 1679706000,
+                    "wom_end_time": 1680310800,
+                    "winning_emoji": "<:giant_mole:1070119724433809458>",
+                    "wom_id": 22169,
+                    "active": false
+                }
+            },
+            {
+                "poll_title": "Iron Drip SOTW #30 Poll",
+                "poll_description": "Vote for the skill of the week!",
+                "poll_end_time": 1680158774,
+                "poll_duration": 72,
+                "poll_choices": {
+                    "Thieving": "<:thieving:1051874162131619930>",
+                    "Agility": "<:agility:1051874138878394448>",
+                    "Hunter": "<:hunter:1051874151767486505>",
+                    "Herblore": "<:herblore:1051874148886007840>"
+                },
+                "wom_start_time": 1680310800,
+                "poll_message_id": 1089742368263114753,
+                "event_type": "SOTW",
+                "active": false,
+                "wom_started": true,
+                "wom": {
+                    "wom_title": "Iron Drip SOTW #30",
+                    "wom_message_id": 1091836179801968731,
+                    "wom_start_time": 1680310800,
+                    "wom_end_time": 1680915600,
+                    "wom_id": 22450,
+                    "winning_emoji": "<:agility:1051874138878394448>",
+                    "active": false
+                }
+            },
+            {
+                "poll_title": "Iron Drip BOTW #15 event Poll",
+                "poll_description": "Vote for the boss of the week!",
+                "poll_end_time": 1680721350,
+                "poll_duration": 48,
+                "poll_choices": {
+                    "Chambers Of Xeric": "<:chambers_of_xeric:1077722174330245130>",
+                    "General Graardor": "<:general_graardor:1070119722525409342>",
+                    "Commander Zilyana": "<:commander_zilyana:1070119713625100388>",
+                    "Tombs Of Amascut": "<:tombs_of_amascut:1077721119404085248>"
+                },
+                "wom_start_time": 1680915600,
+                "poll_message_id": 1092464296698585148,
+                "event_type": "BOTW",
+                "active": false,
+                "wom_started": true,
+                "wom": {
+                    "wom_title": "Iron Drip BOTW #15 event",
+                    "wom_message_id": 1094200696611545098,
+                    "wom_start_time": 1680915600,
+                    "wom_end_time": 1681520400,
+                    "wom_id": 22715,
+                    "winning_emoji": "<:tombs_of_amascut:1077721119404085248>",
+                    "active": false
+                }
+            },
+            {
+                "poll_title": "Iron Drip SOTW #31 Poll",
+                "poll_description": "Vote for the skill of the week!",
+                "poll_end_time": 1681373641,
+                "poll_duration": 72,
+                "poll_choices": {
+                    "Runecrafting": "<:runecrafting:1051874157744369795>",
+                    "Slayer": "<:slayer:1051874159057190982>",
+                    "Mining": "<:mining:1051874153969504329>",
+                    "Fletching": "<:fletching:1051874148487544832>"
+                },
+                "wom_start_time": 1681520400,
+                "poll_message_id": 1094837998241185924,
+                "event_type": "SOTW",
+                "active": false,
+                "wom_started": true,
+                "wom": {
+                    "wom_title": "Iron Drip SOTW #31",
+                    "wom_message_id": 1096601044320010280,
+                    "wom_start_time": 1681520400,
+                    "wom_end_time": 1682125200,
+                    "wom_id": 23031,
+                    "winning_emoji": "<:mining:1051874153969504329>",
+                    "active": false
+                }
+            },
+            {
+                "poll_title": "Iron Drip BOTW #16 Poll",
+                "poll_description": "Vote for the boss of the week!",
+                "poll_end_time": 1682106416,
+                "poll_duration": 40,
+                "poll_choices": {
+                    "Theatre Of Blood": "<:theatre_of_blood:1077723311343161424>",
+                    "Nightmare": "<:nightmare:1077714926640038028>",
+                    "Tztok Jad": "<:tztok_jad:1070119738111438928>",
+                    "Vetion": "<:vetion:1070119740623831110>"
+                },
+                "wom_start_time": 1682193050,
+                "poll_message_id": 1098349279749353684,
+                "event_type": "BOTW",
+                "active": false,
+                "wom_started": true,
+                "wom": {
+                    "wom_title": "Iron Drip BOTW #16",
+                    "wom_message_id": 1099409393654706357,
+                    "wom_start_time": 1682193050,
+                    "wom_end_time": 1682797850,
+                    "wom_id": 23474,
+                    "winning_emoji": "<:theatre_of_blood:1077723311343161424>",
+                    "active": false
+                }
+            },
+            {
+                "poll_title": "Iron Drip SOTW #32 Poll",
+                "poll_description": "Vote for the skill of the week!",
+                "poll_end_time": 1682606925,
+                "poll_duration": 48,
+                "poll_choices": {
+                    "Fishing": "<:fishing:1051874147711586414>",
+                    "Herblore": "<:herblore:1051874148886007840>",
+                    "Farming": "<:farming:1051874145643806770>",
+                    "Hunter": "<:hunter:1051874151767486505>"
+                },
+                "wom_start_time": 1682740800,
+                "poll_message_id": 1100327642072354896,
+                "event_type": "SOTW",
+                "active": false,
+                "wom_started": true,
+                "wom": {
+                    "wom_title": "Iron Drip SOTW #32",
+                    "wom_message_id": null,
+                    "wom_start_time": 1682740800,
+                    "wom_end_time": 1683345600,
+                    "wom_id": "Bot failed to get WoM ID",
+                    "winning_emoji": "<:hunter:1051874151767486505>",
+                    "active": false
+                }
+            }
+        ]
+    }
+}
